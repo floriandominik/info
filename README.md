@@ -7,14 +7,22 @@ coming soon
 
 </details>
 
-#### Bio
+<details>
+<summary>Bio</summary>
 
-#### Projects coming soon
+coming soon
 
-#### [Miscellanea coming soon](Miscellanea.md)
+</details>
 
 <details>
-<summary>More info coming soon</summary>
+<summary>Projects</summary>
+
+coming soon
+
+</details>
+
+<details>
+<summary>Miscellanea</summary>
 
 coming soon
 
