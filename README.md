@@ -28,10 +28,8 @@ coming soon
 coming soon
 
 </details>
-
-
-
-
+&nbsp;
+&nbsp;
 
 ###### Contact information
 ###### Email: florianb at sas dot upenn dot edu
