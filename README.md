@@ -9,7 +9,7 @@
 <details>
 <summary>More info coming soon</summary>
 
-#### coming soon
+coming soon
 
 </details>
 
