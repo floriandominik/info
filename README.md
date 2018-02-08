@@ -4,7 +4,7 @@
 
 #### Contact information coming soon
 
-#### [Miscellanea coming soon](miscellanea.md)
+#### [Miscellanea coming soon](Miscellanea.md)
 
 
 
