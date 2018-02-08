@@ -1,5 +1,7 @@
 ### Welcome! You have reached the personal website of tba.
 
+##### News and Announcements
+
 #### Short bio coming soon
 
 #### Projects coming soon
