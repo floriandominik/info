@@ -2,10 +2,8 @@
 
 #### Short bio coming soon
 
-#### Contact information coming soon
+#### Projects coming soon
 
 #### [Miscellanea coming soon](Miscellanea.md)
 
-
-
-
+#### Contact information coming soon
