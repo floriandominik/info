@@ -1,6 +1,11 @@
-### Welcome! You have reached the personal website of tba.
+### Welcome! You have reached the personal website of Florian Breitkopf, PhD student in Germanic Languages and Literatures at the University of Pennsylvania. 
 
-##### News and Announcements
+<details>
+<summary>News and Announcements</summary>
+
+coming soon
+
+</details>
 
 #### Short bio coming soon
 
@@ -17,6 +22,6 @@ coming soon
 
 
 
-##### Contact information coming soon
-##### email
-##### office
+##### Contact information
+##### Email: florianb at sas dot upenn dot edu
+
