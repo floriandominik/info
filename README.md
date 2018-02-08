@@ -9,11 +9,6 @@
 <details>
 <summary>More info coming soon</summary>
 
-+ tba
-    + tba
-    + tba
-+ tba
-
 </details>
 
 
