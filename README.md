@@ -7,7 +7,7 @@ coming soon
 
 </details>
 
-#### Short bio coming soon
+#### Bio
 
 #### Projects coming soon
 
