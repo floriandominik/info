@@ -6,6 +6,8 @@
 
 #### [Miscellanea coming soon](Miscellanea.md)
 
-#### Contact information coming soon
-##### email
-##### office
+
+
+##### Contact information coming soon
+###### email
+###### office
