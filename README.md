@@ -22,6 +22,6 @@ coming soon
 
 
 
-##### Contact information
-##### Email: florianb at sas dot upenn dot edu
+###### Contact information
+###### Email: florianb at sas dot upenn dot edu
 
