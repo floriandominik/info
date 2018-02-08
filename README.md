@@ -1,8 +1,8 @@
-## Welcome! You have reached the personal website of tba.
+### Welcome! You have reached the personal website of tba.
 
-### Short bio coming soon
+#### Short bio coming soon
 
-### Contact information coming soon
+#### Contact information coming soon
 
 
 
