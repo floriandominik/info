@@ -9,6 +9,8 @@
 <details>
 <summary>More info coming soon</summary>
 
+more info coming soon
+
 </details>
 
 
