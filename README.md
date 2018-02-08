@@ -6,12 +6,12 @@
 
 #### [Miscellanea coming soon](Miscellanea.md)
 
-#### <details>
-#### <summary>More info coming soon</summary>
+<details>
+<summary>More info coming soon</summary>
 
 #### more info coming soon
 
-#### </details>
+</details>
 
 
 
