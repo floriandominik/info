@@ -6,6 +6,16 @@
 
 #### [Miscellanea coming soon](Miscellanea.md)
 
+<details>
+<summary>More info coming soon</summary>
+
++ tba
+    + tba
+    + tba
++ tba
+
+</details>
+
 
 
 ##### Contact information coming soon
