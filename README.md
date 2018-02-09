@@ -31,5 +31,5 @@ coming soon
 &nbsp;
 &nbsp;
 
-###### Email: florianb at sas dot upenn dot edu
+##### Email: florianb at sas dot upenn dot edu
 
