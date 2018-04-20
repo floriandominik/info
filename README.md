@@ -7,7 +7,7 @@ News and Announcements: coming soon
 <details>
 <summary>Bio</summary>
 
-I work on the intersections of literature and visual art around 1800. 
+coming soon
 
 </details>
 
