@@ -1,4 +1,4 @@
-### Welcome! You have reached the personal website of Florian Breitkopf, PhD student in Germanic Languages and Literatures at the University of Pennsylvania. 
+### Welcome! You have reached the personal website of Florian Breitkopf, PhD candidate in Germanic Languages and Literatures at the University of Pennsylvania. 
 &nbsp;
 News and Announcements: coming soon
 &nbsp;
